@@ -1,4 +1,4 @@
-package MyAdapter;
+package myAdapter;
 
 public interface HCollection {
 
